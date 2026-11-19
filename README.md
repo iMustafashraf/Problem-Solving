@@ -1,23 +1,23 @@
-# LeetCode Solutions ![C++](https://img.shields.io/badge/Language-C%2B%2B17-black?style=flat-square&logo=c%2B%2B) ![Status](https://img.shields.io/badge/Code-Optimal-blueviolet?style=flat-square)
+# LeetCode DSA Solutions ![C++](https://img.shields.io/badge/Language-C%2B%2B17-black?style=flat-square&logo=c%2B%2B) ![Status](https://img.shields.io/badge/Code-Optimal-blueviolet?style=flat-square)
 
 A curated collection of optimal C++ solutions for LeetCode Data Structures & Algorithms problems, categorized by topics for technical interview preparation.
 
 ## 📌 Solutions Index
 
-| # | Title | Solution | Difficulty | Tag 
+| # | Title | Solution | Difficulty
 |---|---|:---:|:---:|---|
-| 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./Data-Structure/206-Reverse-Linked-List.cpp) | 🟢 Easy | Linked-List |
-| 2 | [Add 2 Linked-Lists numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./Data-Structure/Add-Two-Numbers.cpp) |  🟡 Medium | Linked-List |
-| 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](Data-Structure/Valid-Parentheses.cpp) |  🟢 Easy | Stack |
-| 4 | [Asteroids Collision](https://leetcode.com/problems/asteroid-collision/) | [C++](Data-Structure/Asteroid-Collision.cpp) |  🟡 Medium | Stack |
-| 5 | [Max Depth - Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](Data-Structure/Maximum-Depth-Binary-Tree.cpp) |  🟢 Easy | Binary Tree |
-| 6 | [Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](Data-Structure/Sum-left-leaves.cpp) |  🟢 Easy | Binary Tree |
-| 7 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](Data-Structure/Diameter-Binary-Tree.cpp) |  🟢 Easy | Binary Tree |
-| 8 | [Zizag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](Data-Structure/ZiZag-Level-Order.cpp) |  🟡 Medium | Binary Tree |
-| 9 | [Check Completness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | [C++](Data-Structure/Check-Completness-Binary-Tree.cpp) |  🟡 Medium | Binary Tree |
-| 10 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](Data-Structure/Validate-Binary-Search-Tree.cpp) |  🟡 Medium | Binary Search Tree |
-| 11 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](Data-Structure/Min-Stack.cpp) |  🟡 Medium | Stack |
-| 12 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](Data-Structure/Symmetric-Tree.cpp) |  🟢 Easy | Binary Tree |
-| 13 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | [C++](Data-Structure/Flip-Equivalent-Tree.cpp) |  🟡 Medium | Binary Tree |
-| 14 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](Data-Structure/Invert-Binary-Tree.cpp) |  🟢 Easy | Binary Tree |
-| 15 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C++](Algorithm/Sort-Array.cpp) |  🟡 Medium | Sorting |
+| 1 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [C++](./Data-Structure/206-Reverse-Linked-List.cpp) | 🟢 Easy 
+| 2 | [Add 2 Linked-Lists numbers](https://leetcode.com/problems/add-two-numbers) | [C++](./Data-Structure/Add-Two-Numbers.cpp) |  🟡 Medium |
+| 3 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [C++](Data-Structure/Valid-Parentheses.cpp) |  🟢 Easy | 
+| 4 | [Asteroids Collision](https://leetcode.com/problems/asteroid-collision/) | [C++](Data-Structure/Asteroid-Collision.cpp) |  🟡 Medium | 
+| 5 | [Max Depth - Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [C++](Data-Structure/Maximum-Depth-Binary-Tree.cpp) |  🟢 Easy 
+| 6 | [Sum of left leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [C++](Data-Structure/Sum-left-leaves.cpp) |  🟢 Easy 
+| 7 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | [C++](Data-Structure/Diameter-Binary-Tree.cpp) |  🟢 Easy 
+| 8 | [Zizag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](Data-Structure/ZiZag-Level-Order.cpp) |  🟡 Medium 
+| 9 | [Check Completness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/) | [C++](Data-Structure/Check-Completness-Binary-Tree.cpp) |  🟡 Medium 
+| 10 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [C++](Data-Structure/Validate-Binary-Search-Tree.cpp) |  🟡 Medium 
+| 11 | [Min Stack](https://leetcode.com/problems/min-stack/) | [C++](Data-Structure/Min-Stack.cpp) |  🟡 Medium 
+| 12 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [C++](Data-Structure/Symmetric-Tree.cpp) |  🟢 Easy 
+| 13 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | [C++](Data-Structure/Flip-Equivalent-Tree.cpp) |  🟡 Medium 
+| 14 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](Data-Structure/Invert-Binary-Tree.cpp) |  🟢 Easy 
+| 15 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C++](Algorithm/Sort-Array.cpp) |  🟡 Medium 
