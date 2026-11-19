@@ -1,8 +1,6 @@
 # LeetCode DSA Solutions ![C++](https://img.shields.io/badge/Language-C%2B%2B17-black?style=flat-square&logo=c%2B%2B) ![Status](https://img.shields.io/badge/Code-Optimal-blueviolet?style=flat-square)
 
-A curated collection of optimal C++ solutions for LeetCode Data Structures & Algorithms problems, categorized by topics for technical interview preparation.
-
-## 📌 Solutions Index
+A curated collection of optimal C++ solutions for LeetCode DSA problems, categorized by topics for technical interview preparation.
 
 | # | Title | Solution | Difficulty
 |---|---|:---:|:---|
@@ -21,3 +19,6 @@ A curated collection of optimal C++ solutions for LeetCode Data Structures & Alg
 | 13 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) | [C++](Data-Structure/Flip-Equivalent-Tree.cpp) |  🟡 Medium 
 | 14 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [C++](Data-Structure/Invert-Binary-Tree.cpp) |  🟢 Easy 
 | 15 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | [C++](Algorithm/Sort-Array.cpp) |  🟡 Medium 
+
+# CTF Solutions
+
